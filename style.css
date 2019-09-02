@@ -1,0 +1,10 @@
+.box {
+  width: 30px;
+  height: 100%;
+  background-color: pink;
+  border: 1px solid blue;
+}
+.container {
+  height: 140px;
+  display: flex;
+}
